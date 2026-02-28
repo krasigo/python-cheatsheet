@@ -1,3 +1,4 @@
+# branch2 - Коммит 3: Последнее изменение
 # branch2 - Коммит 2: Еще одно изменение
 # branch2 - Коммит 1: Изменение для конфликта 
 Comprehensive Python Cheatsheet
