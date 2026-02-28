@@ -1,3 +1,4 @@
+# branch1 - Коммит 3: Последнее изменение в branch1
 # branch1 - Коммит 2: Второе изменение от branch1
 # branch1 - Коммит 1: Изменение от branch1
 Comprehensive Python Cheatsheet
